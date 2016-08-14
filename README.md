@@ -1,2 +1,4 @@
 # JSTutorial
-checking out JS
+checking out JS lessons on Udacity
+
+so far so good.
